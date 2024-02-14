@@ -27,7 +27,7 @@ const Contact = () =>{
             <div class="icons">
                 <i class="fas fa-map-marker-alt"></i>
                 <h3>our address</h3>
-                <p>mumbai, india - 400104</p>
+                <p>Ambuj Tower Flat no. 403, Taj highway, Gaziyabad</p>
             </div>
     
         </div>
